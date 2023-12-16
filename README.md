@@ -2,7 +2,6 @@
 
 ## Waste Detection
  Reduce waste disposal costs and increase recycling rates to contribute to the sustainability of urban environments.  
-</br>
 
 ### My Role : Detection Model Training and Inference  
 </br>
