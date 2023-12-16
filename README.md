@@ -4,6 +4,10 @@
  Reduce waste disposal costs and increase recycling rates to contribute to the sustainability of urban environments.  
 
 ### My Role : Detection Model Training and Inference  
+
+## Training Result
+![Total Training Result](<images/Training Result.png>)
+![P-R Curve](<images/P-R Curve.png>)
 </br>
 
 ## Demo with streamlit
